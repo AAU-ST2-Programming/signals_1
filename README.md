@@ -25,7 +25,6 @@ Følg denne guide nøje for at være klar til undervisningen:
   - Artikel 7: Gyldigt samtykke
   - Artikel 9: Behandling af særlige kategorier af persondata (herunder sundhedsdata)
   - Artikel 17: Retten til at blive glemt
-  - **Sundhedsloven (Danmark)** Kapitel 4 om patientens ret til information: https://www.retsinformation.dk/eli/lta/2022/1140
 
 **Supplerende litteratur:**
 - [NumPy Documentation](https://numpy.org/doc/)
