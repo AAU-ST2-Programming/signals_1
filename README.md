@@ -19,10 +19,23 @@ Følg denne guide nøje for at være klar til undervisningen:
 - [Data Wrangling with Python af Jacek Gołębiewski (PDF)](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf)
   - Kapitel 5: Tidsserie og signaldata
   - Kapitel 6: Visualisering af signaler
+- GDPR
+  - Artikel 4: Definitioner relateret til persondata og behandling
+  - Artikel 6: Lovlig behandling af persondata
+  - Artikel 7: Gyldigt samtykke
+  - Artikel 9: Behandling af særlige kategorier af persondata (herunder sundhedsdata)
+  - Artikel 17: Retten til at blive glemt
+  - **Sundhedsloven (Danmark)** Kapitel 4 om patientens ret til information: https://www.retsinformation.dk/eli/lta/2022/1140
 
 **Supplerende litteratur:**
 - [NumPy Documentation](https://numpy.org/doc/)
+  - https://numpy.org/doc/2.4/reference/arrays.ndarray.html
+  - https://numpy.org/doc/2.4/reference/generated/numpy.genfromtxt.html
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+  - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+  - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.errorbar.html
+  - https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.boxplot.html
+
 
 **Formål:** Forstå grundlæggende signalbehandling, arbejde med NumPy arrays og visualisering.
 
