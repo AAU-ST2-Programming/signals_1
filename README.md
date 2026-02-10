@@ -1,4 +1,4 @@
-# Signal 1: Introduktion til signalbehandling
+# Signalgrundlag
 
 - **Lecture specific files**: files/* – `En mappe med filer til øvelser og eksempler fra undervisningen.`
 
@@ -45,11 +45,14 @@ Følg denne guide nøje for at være klar til undervisningen:
 - Tjek at du har følgende extensions i Visual Studio Code:
   - `Python`
   - `jupyter`
+
+
 - Download eller opdater materialet:
-  ```bash
-  cd ~/ST2-AnvendtProgrammering/signal_1
-  git pull
-  ```
+> ```zsh
+> git clone https://github.com/AAU-ST2-Programming/signals_1.git
+> cd signals_1
+> git pull
+> ```
 
 ---
 
