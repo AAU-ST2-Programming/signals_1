@@ -11,14 +11,10 @@ Følg denne guide nøje for at være klar til undervisningen:
 ### 1. Literatur
 
 **Primær litteratur:**
-- [Think Python, 2nd Edition af Allen B. Downey (online bog)](https://allendowney.github.io/ThinkPython/)
-  - Kapitel 10: Lists
-  - Kapitel 14: Files
-- [Python for Everybody af Charles Severance (PDF)](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
-  - Kapitel 7–8: Filer og lister i Python
+
 - [Data Wrangling with Python af Jacek Gołębiewski (PDF)](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf)
-  - Kapitel 5: Tidsserie og signaldata
-  - Kapitel 6: Visualisering af signaler
+  - Kapitel 3.1, 5.1, 5.3 : Tidsserie og signal analyse
+  - Kapitel 5.2.2, 5.4: Slicing and indexing
 - GDPR
   - Artikel 4: Definitioner relateret til persondata og behandling
   - Artikel 6: Lovlig behandling af persondata
@@ -35,8 +31,6 @@ Følg denne guide nøje for at være klar til undervisningen:
   - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.errorbar.html
   - https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.boxplot.html
 
-
-**Formål:** Forstå grundlæggende signalbehandling, arbejde med NumPy arrays og visualisering.
 
 **Til Flowcharts of class diagrammer:**  
 Her er der 2 muligheder. Jeg bruger personligt `Mermaid` idag. 
