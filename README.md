@@ -31,6 +31,8 @@ Følg denne guide nøje for at være klar til undervisningen:
   - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.errorbar.html
   - https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.boxplot.html
 
+**Exercise Video:**
+- [HeartCycleExtractor Exercise Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=28ed6727-214f-40fa-84cd-b3fe00d09eda)
 
 **Til Flowcharts of class diagrammer:**  
 Her er der 2 muligheder. Jeg bruger personligt `Mermaid` idag. 
