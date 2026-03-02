@@ -15,7 +15,7 @@ Følg denne guide nøje for at være klar til undervisningen:
 - [Data Wrangling with Python af Jacek Gołębiewski (PDF)](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf)
   - Kapitel 3.1, 5.1, 5.3 : Tidsserie og signal analyse
   - Kapitel 5.2.2, 5.4: Slicing and indexing
-- GDPR
+- [GDPR.dk](https://gdpr.dk/)
   - Artikel 4: Definitioner relateret til persondata og behandling
   - Artikel 6: Lovlig behandling af persondata
   - Artikel 7: Gyldigt samtykke
